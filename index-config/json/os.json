@@ -61,16 +61,7 @@
         "engName": "Android",
         "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Android_logo_2019.svg.png",
         "apps": [
-          {
-            "name": "Hiddify",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
-            "description": "A secure and fast proxy client.",
-            "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
-            "configLink": "Hiddify://install-config?url={url}",
-            "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Android-universal.apk"
-          },
-          {
+            {
             "name": "V2rayNG",
             "price": "0",
             "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayNG.png",
@@ -95,6 +86,15 @@
                 "stepImage": "https://github.com/alisamani1378/index-config/blob/main/tutorials/v2rayng/3.png?raw=true"
               }
             ]
+          },
+          {
+            "name": "Hiddify",
+            "price": "0",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
+            "description": "A secure and fast proxy client.",
+            "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
+            "configLink": "Hiddify://install-config?url={url}",
+            "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Android-universal.apk"
           }
         ]
       },
