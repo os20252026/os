@@ -64,7 +64,7 @@
           {
             "name": "Hiddify",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.png?raw=true",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
             "description": "A secure and fast proxy client.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
             "configLink": "Hiddify://install-config?url={url}",
@@ -106,7 +106,7 @@
           {
             "name": "Hiddify",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.png?raw=true",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
             "description": "A secure and fast proxy client for Windows.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای ویندوز است.",
             "configLink": "Hiddify://import/{url}",
@@ -141,7 +141,7 @@
           {
             "name": "Hiddify",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.png?raw=true",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
             "description": "A secure and fast proxy client for Linux.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای لینوکس است.",
             "configLink": "Hiddify://import-profile?url={url}",
