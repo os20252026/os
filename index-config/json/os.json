@@ -7,7 +7,7 @@
         "apps": [
           {
             "name": "Hiddify",
-            "price": "0"
+            "price": "0",
             "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
             "description": "A secure and fast proxy client.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
