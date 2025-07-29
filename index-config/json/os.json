@@ -3,12 +3,12 @@
       {
         "name": "اپل",
         "engName": "iOS",
-        "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Apple_logo_black.svg",
+        "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Apple_logo_black.svg",
         "apps": [
           {
             "name": "Hiddify",
-            "price": "0",
-            "logo": "https://github.com/alisamani1378/index-config/blob/main/icons/Hiddify.png?raw=true",
+            "price": "0"
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
             "description": "A secure and fast proxy client.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
             "configLink": "Hiddify://import/{url}",
@@ -17,7 +17,7 @@
           {
             "name": "Streisand",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/streisand.jpg",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/streisand.jpg",
             "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
             "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
             "configLink": "streisand://import/{url}",
@@ -48,7 +48,7 @@
           {
             "name": "Shadowrocket",
             "price": "2.99",
-            "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/shadowrocket.png",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/shadowrocket.png",
             "description": "A rule-based proxy utility client for iOS.",
             "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
             "configLink": "https://example.com/shadowrocket-config",
@@ -59,12 +59,12 @@
       {
         "name": "اندروید",
         "engName": "Android",
-        "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Android_logo_2019.svg.png",
+        "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Android_logo_2019.svg.png",
         "apps": [
           {
             "name": "Hiddify",
             "price": "0",
-            "logo": "https://github.com/alisamani1378/index-config/blob/main/icons/Hiddify.png?raw=true",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.png?raw=true",
             "description": "A secure and fast proxy client.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
             "configLink": "Hiddify://install-config?url={url}",
@@ -73,7 +73,7 @@
           {
             "name": "V2rayNG",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayNG.png",
             "description": "A V2Ray client for Android devices.",
             "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
             "configLink": "v2rayng://install-config?url={url}",
@@ -101,12 +101,12 @@
       {
         "name": "ویندوز",
         "engName": "Windows",
-        "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Windows_logo_2021.svg.png",
+        "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Windows_logo_2021.svg.png",
         "apps": [
           {
             "name": "Hiddify",
             "price": "0",
-            "logo": "https://github.com/alisamani1378/index-config/blob/main/icons/Hiddify.png?raw=true",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.png?raw=true",
             "description": "A secure and fast proxy client for Windows.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای ویندوز است.",
             "configLink": "Hiddify://import/{url}",
@@ -115,23 +115,33 @@
           {
             "name": "V2rayN",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayN.png",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayN.png",
             "description": "A Windows V2Ray client with GUI support.",
             "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
             "configLink": "V2rayN://import/{url}",
             "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
+          },
+          {
+            "name": "Nekoray",
+            "price": "0",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/nekoray.jpeg",
+            "description": "A cross-platform GUI client for V2Ray.",
+            "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
+            "configLink": "Nekoray://import/{url}",
+            "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
+            "videoLink": "https://example.com/nekoray-video"
           }
         ]
       },
       {
         "name": "لینوکس",
         "engName": "Linux",
-        "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Tux.png",
+        "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Tux.png",
         "apps": [
           {
             "name": "Hiddify",
             "price": "0",
-            "logo": "https://github.com/alisamani1378/index-config/blob/main/icons/Hiddify.png?raw=true",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.png?raw=true",
             "description": "A secure and fast proxy client for Linux.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای لینوکس است.",
             "configLink": "Hiddify://import-profile?url={url}",
@@ -140,7 +150,7 @@
           {
             "name": "Nekoray",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/nekoray.jpeg",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/nekoray.jpeg",
             "description": "A cross-platform GUI client for V2Ray.",
             "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
             "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
@@ -148,7 +158,7 @@
           {
             "name": "SingBox",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/singbox.png",
             "description": "A client that provides a platform for routing traffic securely.",
             "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
             "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
