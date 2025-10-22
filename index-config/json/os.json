@@ -104,15 +104,6 @@
         "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Windows_logo_2021.svg.png",
         "apps": [
           {
-            "name": "Hiddify",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
-            "description": "A secure and fast proxy client for Windows.",
-            "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای ویندوز است.",
-            "configLink": "Hiddify://import/{url}",
-            "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe"
-          },
-          {
             "name": "V2rayN",
             "price": "0",
             "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayN.png",
@@ -120,6 +111,15 @@
             "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
             "configLink": "V2rayN://import/{url}",
             "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
+          },
+          {
+            "name": "Hiddify",
+            "price": "0",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
+            "description": "A secure and fast proxy client for Windows.",
+            "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای ویندوز است.",
+            "configLink": "Hiddify://import/{url}",
+            "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe"
           },
           {
             "name": "Nekoray",
@@ -139,6 +139,14 @@
         "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Tux.png",
         "apps": [
           {
+            "name": "Nekoray",
+            "price": "0",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/nekoray.jpeg",
+            "description": "A cross-platform GUI client for V2Ray.",
+            "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
+            "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
+          },
+          {
             "name": "Hiddify",
             "price": "0",
             "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
@@ -146,14 +154,6 @@
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای لینوکس است.",
             "configLink": "Hiddify://import-profile?url={url}",
             "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Linux-x64.AppImage"
-          },
-          {
-            "name": "Nekoray",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/nekoray.jpeg",
-            "description": "A cross-platform GUI client for V2Ray.",
-            "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
-            "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
           },
           {
             "name": "SingBox",
