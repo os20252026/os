@@ -41,7 +41,7 @@
             "price": "0",
             "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2box.png",
             "description": "A secure and fast proxy client.",
-            "faDescription": "وی تو باکس یک کلاینت پراکسی امن و سریع است.",
+            "faDescription": "v2box یک کلاینت V2Ray برای آیفون با پشتیبانی از رابط کاربری است.",
             "configLink": "v2box://import/{url}",
             "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690"
           },
