@@ -47,7 +47,7 @@
           },
           {
             "name": "Shadowrocket",
-            "price": "2.99",
+            "price": "1.99",
             "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/shadowrocket.png",
             "description": "A rule-based proxy utility client for iOS.",
             "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
@@ -116,8 +116,8 @@
             "name": "Happ Proxy",
             "price": "0",
             "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
-            "description": "Hop is a mobile app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
-            "faDescription": "هاپ یک برنامه موبایلی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
+            "description": "Hop is a Windows app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
+            "faDescription": "هاپ یک برنامه ویندوزی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
             "configLink": "happ://import/{url}",
             "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe"
           },
@@ -138,6 +138,24 @@
         "engName": "Linux",
         "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Tux.png",
         "apps": [
+           {
+            "name": "V2rayN",
+            "price": "0",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayN.png",
+            "description": "A Linux V2Ray client with GUI support.",
+            "faDescription": "v2rayN یک کلاینت V2Ray برای لینوکس با پشتیبانی از رابط کاربری است.",
+            "configLink": "V2rayN://import/{url}",
+            "downloadLink": "https://github.com/2dust/v2rayN/releases/download/7.15.4/v2rayN-linux-64.zip"
+          },
+          {
+            "name": "Happ Proxy",
+            "price": "0",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
+            "description": "Hop is a Linux app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
+            "faDescription": "هاپ یک برنامه لینوکس است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
+            "configLink": "happ://import/{url}",
+            "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/"
+          },
           {
             "name": "Nekoray",
             "price": "0",
@@ -146,25 +164,6 @@
             "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
             "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
           },
-          {
-            "name": "Happ Proxy",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
-            "description": "Hop is a mobile app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
-            "faDescription": "هاپ یک برنامه موبایلی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
-            "configLink": "happ://import/{url}",
-            "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/"
-          },
-          {
-            "name": "SingBox",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/singbox.png",
-            "description": "A client that provides a platform for routing traffic securely.",
-            "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
-            "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
-            "downloadLink": "https://github.com/SagerNet/sing-box/releases/latest",
-            "videoLink": "https://example.com/sing-box-video"
-          }
         ]
       }
     ]
