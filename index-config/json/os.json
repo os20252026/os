@@ -37,15 +37,6 @@
             ]
           },
           {
-            "name": "v2box",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2box.png",
-            "description": "v2box is a V2Ray client for iPhone with UI support.",
-            "faDescription": "v2box یک کلاینت V2Ray برای آیفون با پشتیبانی از رابط کاربری است.",
-            "configLink": "v2box://import/{url}",
-            "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690"
-          },
-          {
             "name": "Happ Proxy",
             "price": "0",
             "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
@@ -97,14 +88,14 @@
             ]
           },
           {
-            "name": "Hiddify",
+            "name": "Happ Proxy",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
-            "description": "A secure and fast proxy client.",
-            "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
-            "configLink": "Hiddify://install-config?url={url}",
-            "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Android-universal.apk"
-          }
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
+            "description": "Hop is a mobile app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
+            "faDescription": "هاپ یک برنامه موبایلی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
+            "configLink": "happ://import/{url}",
+            "downloadLink": "https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk"
+          },
         ]
       },
       {
@@ -122,13 +113,13 @@
             "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
           },
           {
-            "name": "Hiddify",
+            "name": "Happ Proxy",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
-            "description": "A secure and fast proxy client for Windows.",
-            "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای ویندوز است.",
-            "configLink": "Hiddify://import/{url}",
-            "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe"
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
+            "description": "Hop is a mobile app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
+            "faDescription": "هاپ یک برنامه موبایلی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
+            "configLink": "happ://import/{url}",
+            "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe"
           },
           {
             "name": "Nekoray",
