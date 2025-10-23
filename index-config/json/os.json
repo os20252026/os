@@ -147,13 +147,13 @@
             "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
           },
           {
-            "name": "Hiddify",
+            "name": "Happ Proxy",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Hiddify.jpg?raw=true",
-            "description": "A secure and fast proxy client for Linux.",
-            "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای لینوکس است.",
-            "configLink": "Hiddify://import-profile?url={url}",
-            "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Linux-x64.AppImage"
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
+            "description": "Hop is a mobile app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
+            "faDescription": "هاپ یک برنامه موبایلی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
+            "configLink": "happ://import/{url}",
+            "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/"
           },
           {
             "name": "SingBox",
