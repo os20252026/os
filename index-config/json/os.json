@@ -1,170 +1,170 @@
 {
-    "operatingSystems": [
-      {
-        "name": "اپل",
-        "engName": "iOS",
-        "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Apple_logo_black.svg",
-        "apps": [ 
-          {
-            "name": "Streisand",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/streisand.jpg",
-            "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
-            "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
-            "configLink": "streisand://import/{url}",
-            "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
-            "tutorialSteps": [
-              {
-                "stepText": "Step 1: Download and install the Streisand app from the App Store.",
-                "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
-                "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/1.jpg"
-              },
-              {
-                "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
-                "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-                "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/2.jpg"
-              },
-              {
-                "stepText": "Step 3: Choose your server location.",
-                "faStepText": "مرحله ۳: مکان سرور خود را انتخاب کنید.",
-                "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/3.jpg"
-              },
-              {
-                "stepText": "Step 4: Click on the connect button (blue).",
-                "faStepText": "مرحله ۴: بر روی دکمه اتصال (آبی) کلیک کنید.",
-                "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/4.jpg"
-              }
-            ]
-          },
-          {
-            "name": "Happ Proxy",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
-            "description": "Hop is a mobile app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
-            "faDescription": "هاپ یک برنامه موبایلی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
-            "configLink": "happ://import/{url}",
-            "downloadLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215"
-          },
-          {
-            "name": "Shadowrocket",
-            "price": "1.99",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/shadowrocket.png",
-            "description": "A rule-based proxy utility client for iOS.",
-            "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
-            "configLink": "https://example.com/shadowrocket-config",
-            "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118"
-          }
-        ]
-      },
-      {
-        "name": "اندروید",
-        "engName": "Android",
-        "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Android_logo_2019.svg.png",
-        "apps": [
+  "operatingSystems": [
+    {
+      "name": "اپل",
+      "engName": "iOS",
+      "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Apple_logo_black.svg",
+      "apps": [
+        {
+          "name": "Streisand",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/streisand.jpg",
+          "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
+          "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
+          "configLink": "streisand://import/{url}",
+          "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
+          "tutorialSteps": [
             {
-            "name": "V2rayNG",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayNG.png",
-            "description": "A V2Ray client for Android devices.",
-            "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
-            "configLink": "v2rayng://install-config?url={url}",
-            "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.10.4/v2rayNG_1.10.4_universal.apk",
-            "tutorialSteps": [
-              {
-                "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
-                "faStepText": "مرحله ۱: برنامه v2rayng را از پلی استور دانلود و نصب کنید.",
-                "stepImage": "https://github.com/alisamani1378/index-config/blob/main/tutorials/v2rayng/1.jpg?raw=true"
-              },
-              {
-                "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
-                "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-                "stepImage": "https://github.com/alisamani1378/index-config/blob/main/tutorials/v2rayng/2.jpg?raw=true"
-              },
-              {
-                "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server you want. And finally, connect from the bottom of the page.",
-                "faStepText": "مرحله  ۳ : ابتدا سرور مورد نظر را انتخاب کرده. سپس از طریق دکمه پایین صفحه متصل شوید",
-                "stepImage": "https://github.com/alisamani1378/index-config/blob/main/tutorials/v2rayng/3.png?raw=true"
-              }
-            ]
-          },
-          {
-            "name": "Happ Proxy",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
-            "description": "Hop is a mobile app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
-            "faDescription": "هاپ یک برنامه موبایلی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
-            "configLink": "happ://import/{url}",
-            "downloadLink": "https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk"
-          }
-        ]
-      },
-      {
-        "name": "ویندوز",
-        "engName": "Windows",
-        "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Windows_logo_2021.svg.png",
-        "apps": [
-          {
-            "name": "V2rayN",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayN.png",
-            "description": "A Windows V2Ray client with GUI support.",
-            "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
-            "configLink": "V2rayN://import/{url}",
-            "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
-          },
-          {
-            "name": "Happ Proxy",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
-            "description": "Hop is a Windows app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
-            "faDescription": "هاپ یک برنامه ویندوزی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
-            "configLink": "happ://import/{url}",
-            "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe"
-          },
-          {
-            "name": "Nekoray",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/nekoray.jpeg",
-            "description": "A cross-platform GUI client for V2Ray.",
-            "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
-            "configLink": "Nekoray://import/{url}",
-            "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
-            "videoLink": "https://example.com/nekoray-video"
-          }
-        ]
-      },
-      {
-        "name": "لینوکس",
-        "engName": "Linux",
-        "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Tux.png",
-        "apps": [
-          {
-            "name": "V2rayN",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayN.png",
-            "description": "A Linux V2Ray client with GUI support.",
-            "faDescription": "v2rayN یک کلاینت V2Ray برای لینوکس با پشتیبانی از رابط کاربری است.",
-            "configLink": "V2rayN://import/{url}",
-            "downloadLink": "https://github.com/2dust/v2rayN/releases/download/7.15.4/v2rayN-linux-64.zip"
-          },
-          {
-            "name": "Happ Proxy",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
-            "description": "Hop is a Linux app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
-            "faDescription": "هاپ یک برنامه لینوکس است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
-            "configLink": "happ://import/{url}",
-            "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/"
-          },
-          {
-            "name": "Nekoray",
-            "price": "0",
-            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/nekoray.jpeg",
-            "description": "A cross-platform GUI client for V2Ray.",
-            "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
-            "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
-          }
-        ]
-      }
-    ]
-  }
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/1.jpg"
+            },
+            {
+              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
+              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/2.jpg"
+            },
+            {
+              "stepText": "Step 3: Choose your server location.",
+              "faStepText": "مرحله ۳: مکان سرور خود را انتخاب کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/3.jpg"
+            },
+            {
+              "stepText": "Step 4: Click on the connect button (blue).",
+              "faStepText": "مرحله ۴: بر روی دکمه اتصال (آبی) کلیک کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Happ Proxy",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
+          "description": "Hop is a mobile app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
+          "faDescription": "هاپ یک برنامه موبایلی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
+          "configLink": "happ://import/{url}",
+          "downloadLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215"
+        },
+        {
+          "name": "Shadowrocket",
+          "price": "1.99",
+          "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/shadowrocket.png",
+          "description": "A rule-based proxy utility client for iOS.",
+          "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
+          "configLink": "https://example.com/shadowrocket-config",
+          "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118"
+        }
+      ]
+    },
+    {
+      "name": "اندروید",
+      "engName": "Android",
+      "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Android_logo_2019.svg.png",
+      "apps": [
+        {
+          "name": "V2rayNG",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayNG.png",
+          "description": "A V2Ray client for Android devices.",
+          "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
+          "configLink": "v2rayng://install-config?url={url}",
+          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.10.4/v2rayNG_1.10.4_universal.apk",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
+              "faStepText": "مرحله ۱: برنامه v2rayng را از پلی استور دانلود و نصب کنید.",
+              "stepImage": "https://github.com/alisamani1378/index-config/blob/main/tutorials/v2rayng/1.jpg?raw=true"
+            },
+            {
+              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
+              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
+              "stepImage": "https://github.com/alisamani1378/index-config/blob/main/tutorials/v2rayng/2.jpg?raw=true"
+            },
+            {
+              "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server you want. And finally, connect from the bottom of the page.",
+              "faStepText": "مرحله  ۳ : ابتدا سرور مورد نظر را انتخاب کرده. سپس از طریق دکمه پایین صفحه متصل شوید",
+              "stepImage": "https://github.com/alisamani1378/index-config/blob/main/tutorials/v2rayng/3.png?raw=true"
+            }
+          ]
+        },
+        {
+          "name": "Happ Proxy",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
+          "description": "Hop is a mobile app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
+          "faDescription": "هاپ یک برنامه موبایلی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
+          "configLink": "happ://import/{url}",
+          "downloadLink": "https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk"
+        }
+      ]
+    },
+    {
+      "name": "ویندوز",
+      "engName": "Windows",
+      "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Windows_logo_2021.svg.png",
+      "apps": [
+        {
+          "name": "V2rayN",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayN.png",
+          "description": "A Windows V2Ray client with GUI support.",
+          "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
+          "configLink": "V2rayN://import/{url}",
+          "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
+        },
+        {
+          "name": "Happ Proxy",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
+          "description": "Hop is a Windows app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
+          "faDescription": "هاپ یک برنامه ویندوزی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
+          "configLink": "happ://import/{url}",
+          "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe"
+        },
+        {
+          "name": "Nekoray",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/nekoray.jpeg",
+          "description": "A cross-platform GUI client for V2Ray.",
+          "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
+          "configLink": "Nekoray://import/{url}",
+          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
+          "videoLink": "https://example.com/nekoray-video"
+        }
+      ]
+    },
+    {
+      "name": "لینوکس",
+      "engName": "Linux",
+      "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Tux.png",
+      "apps": [
+        {
+          "name": "V2rayN",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayN.png",
+          "description": "A Linux V2Ray client with GUI support.",
+          "faDescription": "v2rayN یک کلاینت V2Ray برای لینوکس با پشتیبانی از رابط کاربری است.",
+          "configLink": "V2rayN://import/{url}",
+          "downloadLink": "https://github.com/2dust/v2rayN/releases/download/7.15.4/v2rayN-linux-64.zip"
+        },
+        {
+          "name": "Happ Proxy",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
+          "description": "Hop is a Linux app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
+          "faDescription": "هاپ یک برنامه لینوکس است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
+          "configLink": "happ://import/{url}",
+          "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/"
+        },
+        {
+          "name": "Nekoray",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/nekoray.jpeg",
+          "description": "A cross-platform GUI client for V2Ray.",
+          "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
+          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
+        }
+      ]
+    }
+  ]
+}
