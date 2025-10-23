@@ -46,6 +46,15 @@
             "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690"
           },
           {
+            "name": "Happ Proxy",
+            "price": "0",
+            "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Happ.png",
+            "description": "Hop is a mobile app that makes it easy to use proxy servers and VPNs, offering a user-friendly interface and useful features.",
+            "faDescription": "هاپ یک برنامه موبایلی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
+            "configLink": "happ://import/{url}",
+            "downloadLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215"
+          },
+          {
             "name": "Shadowrocket",
             "price": "2.99",
             "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/shadowrocket.png",
