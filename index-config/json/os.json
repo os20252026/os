@@ -95,7 +95,7 @@
             "faDescription": "هاپ یک برنامه موبایلی است که استفاده از سرورهای پروکسی و vpn را آسان می کند و رابط کاربر پسند و ویژگی های مفیدی را ارائه می دهد.",
             "configLink": "happ://import/{url}",
             "downloadLink": "https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk"
-          },
+          }
         ]
       },
       {
@@ -138,7 +138,7 @@
         "engName": "Linux",
         "osLogo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/Tux.png",
         "apps": [
-           {
+          {
             "name": "V2rayN",
             "price": "0",
             "logo": "https://raw.githubusercontent.com/os20252026/os/refs/heads/master/index-config/icons/v2rayN.png",
@@ -163,7 +163,7 @@
             "description": "A cross-platform GUI client for V2Ray.",
             "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
             "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
-          },
+          }
         ]
       }
     ]
